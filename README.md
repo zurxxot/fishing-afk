@@ -1,3 +1,5 @@
+# meow meow :3
+
 # fishing-afk
 
 Auto fishing for Blox Fruits. It casts, answers the bite, reels the fish in and casts again on its own, and moves you to a good spot by the water first. It comes with a small on/off panel.
